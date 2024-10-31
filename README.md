@@ -1,4 +1,4 @@
-Berikut adalah penjelasan kode Python yang Anda berikan:
+Berikut adalah penjelasan kode Pythonnya:
 
 Input Data:
 
@@ -63,7 +63,7 @@ Nilai akhir adalah 85.
 Nilai huruf adalah "A".
 Keterangan: "LULUS".
 
-Berikut adalah penjelasan dari kode Python yang Anda berikan:
+Berikut adalah penjelasan dari kode Pythonnya:
 
 Input Data:
 
@@ -118,7 +118,7 @@ Program menampilkan bahwa gaji di atas UMR.
 Menampilkan bahwa pengguna wajib ikut asuransi dan menabung untuk pensiun.
 Menampilkan bahwa pengguna wajib membayar pajak rumah.
 
-Berikut adalah penjelasan kode Python yang Anda berikan:
+Berikut adalah penjelasan kode Pythonnya:
 
 Input Data:
 
